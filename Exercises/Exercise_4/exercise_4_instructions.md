@@ -1,5 +1,7 @@
 # Exercise 5.4
 
+####
+
 Create a function called ``arithmetic_sum`` that takes in integers ``a``, ``d``, and ``n``  and prints out the sum of the sequence, known as a series.
 
 ```
